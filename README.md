@@ -24,3 +24,12 @@ The objective of this HR Analytics project is to analyze workforce demographics,
 
 ## Dashboard
 <img width="974" height="480" alt="Screenshot 2026-08-27 113628" src="https://github.com/user-attachments/assets/08ac1b59-788f-488c-932e-b3988b0d6299" />
+
+## Project insight
+- R&D Drives Turnover Peak
+- Senior Earner Retention Risk
+- Promotion Stagnation Accelerates Exits
+- Consistent Cross-Department Tenure
+
+## Final conclusion
+- While the organization demonstrates steady baseline retention with an average tenure of ~10.8 years across 50,000 employees, attrition is heavily influenced by promotion stagnation, peak departmental strain in R&D, and compensation misalignment at executive levels. By modernizing promotion pathways and balancing operational workloads in sales and technical units, HR leadership can protect key talent, reduce turnover costs, and enhance overall workforce productivity.
